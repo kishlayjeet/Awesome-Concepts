@@ -1,4 +1,4 @@
-# Awesome Concepts
+# Awesome Concepts 🚒
 
 Welcome to the Big Data and Data Engineering Concepts repository!
 
