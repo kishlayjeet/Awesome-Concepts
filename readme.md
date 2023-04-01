@@ -1,4 +1,4 @@
-# AwesomeDE Concepts 🚒
+# AwesomeDE 🚒
 
 Welcome to the Big Data and Data Engineering Concepts repository!
 
