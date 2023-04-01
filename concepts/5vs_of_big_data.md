@@ -22,7 +22,8 @@ Big data refers to large and complex sets of data that are generated, collected,
 
    Value refers to the insights and business value that can be derived from big data. By analyzing and understanding big data, organizations can improve customer engagement, reduce fraud, predict maintenance needs, and develop new products and services.
 
-### There are many ways that big data can be used to provide value to businesses. Here are three examples:
+### There are many ways that big data can be used to provide value to businesses. 
+Here are three examples:
 
 - **Customer Segmentation:** Businesses can analyze large amounts of customer data to identify patterns and trends that can be used to create customer segments based on behaviors, preferences, and demographics. This information can be used to improve customer engagement and increase customer loyalty through targeted marketing and personalized customer experiences.
 - **Fraud Detection:** Organizations can use big data to detect potential fraud by analyzing large amounts of transaction data in real-time. This can help reduce the risk of financial loss and improve overall security.
