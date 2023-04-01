@@ -9,6 +9,7 @@ Whether you're a seasoned data professional or just starting out, you'll find va
 #### Here are just the few of the topics covered in this repository:
 
 - [5Vs of Big Data](./concepts/5vs_of_big_data.md)
+- [Hadoop vs Spark](./concepts/hadoop_vs_spark.md)
 - [Vertical and Horizontal Scaling](./concepts/vertical_and_horizontal_scaling.md)
 
 So, what are you waiting for? Join us on the journey to becoming an data engineer!
