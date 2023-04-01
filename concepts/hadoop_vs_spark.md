@@ -9,6 +9,7 @@ Spark, on the other hand, is also an open-source framework for distributed proce
 Now let's look at some of the main differences between Hadoop and Spark:
 
 1. **Performance**
+
    Hadoop writes data back to disk and reads again from disk to process it, which can slow down the processing speed. In contrast, Spark does all the computations in memory, which makes it much faster than Hadoop. For example, if you have a large dataset and want to analyze it, Hadoop may take hours or even days to complete the processing, while Spark can complete it in a matter of minutes or even seconds.
 
    **Example 1:** Suppose you have a dataset of 1 terabyte (TB) that you need to process. With Hadoop, the data will be written to disk and read again from disk to process it, which can take a lot of time. With Spark, the data can be processed in-memory, which makes it much faster than Hadoop.
