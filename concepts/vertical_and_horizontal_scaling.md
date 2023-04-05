@@ -7,13 +7,13 @@ Big Data has become a buzzword in the tech industry and has become an integral p
 - Vertical Scaling
 - Horizontal Scaling
 
-1. **Vertical Scaling**
+## Vertical Scaling
 
    Vertical scaling, also known as scaling up, involves increasing the resources of a single machine to handle the increasing workload. In simpler terms, it means upgrading the hardware of a single server, such as increasing its CPU, RAM, or storage capacity, to handle more data. Vertical scaling is often used for systems with a limited number of users, and it is relatively easy to implement. However, the downside of vertical scaling is that there is a limit to how much the resources of a single machine can be increased, and it can be expensive.
 
    _For example, imagine a company that operates a web application. As the number of users grows, the application requires more processing power and memory to handle the increased load. If the company decides to vertically scale their infrastructure, they might upgrade their server to have more CPU cores, more RAM, and more storage._
 
-2. **Horizontal Scaling**
+## Horizontal Scaling
 
    Horizontal scaling, also known as scaling out, involves adding more machines to handle the increasing workload. In simpler terms, it means adding more servers to a system to handle more data. Horizontal scaling is often used for systems that have a large number of users, and it is highly scalable. However, it can be challenging to implement, and it requires more complex system architecture.
 
