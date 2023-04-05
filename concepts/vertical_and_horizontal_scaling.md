@@ -3,6 +3,7 @@
 Big Data has become a buzzword in the tech industry and has become an integral part of many organizations' operations. To effectively handle and process large datasets, it is essential to have a robust infrastructure that can handle the load. This is where scaling comes into the picture. Scaling refers to the process of increasing or decreasing the resources allocated to a system based on its requirements.
 
 ### There are two types of scaling:
+
 - Vertical Scaling
 - Horizontal Scaling
 
